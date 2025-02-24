@@ -1,4 +1,4 @@
 def say_hai():
-	print("Hi.. Tejaswini!")
+	print("Hi.. Tejaswini")
 
 say_hai()
